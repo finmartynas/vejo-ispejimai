@@ -64,7 +64,7 @@ GRID_STEP = 0.5             # tinklelio žingsnis laipsniais (0.25 = tiksliau, b
 MERGE_GAP_HOURS = 2         # pertraukas iki tiek valandų sujungti į vieną laikotarpį
 MAX_PLACES_TEXT = 6         # kiek vietų išvardinti tekste vienam laikotarpiui
 MAX_LABELS_MAP = 5          # kiek vietų užrašyti žemėlapyje vienam regionui
-MODEL = "best_match"        # arba pvz. "ecmwf_ifs025", "icon_seamless", "ukmo_seamless"
+MODEL = "icon_seamless"        # arba pvz. "ecmwf_ifs025", "icon_seamless", "ukmo_seamless"
 API_KEY = os.environ.get("OPEN_METEO_API_KEY", "")  # komercinis raktas (jei turite)
 # Kur saugoti rezultatus. GitHub Actions naudoja aplanką "output" šalia skripto.
 OUTPUT_DIR = Path(os.environ.get("VEJO_OUTPUT_DIR",
