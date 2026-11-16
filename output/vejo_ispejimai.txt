@@ -1,80 +1,118 @@
 Vėjo gūsių įspėjimai ≥8 Bft
-Laikotarpis: 11.15 08:00 – 11.16 13:00 (LT laiku)
+Laikotarpis: 11.16 08:00 – 11.17 13:00 (LT laiku)
 
 Ispanija:
-  • 11.15 08:00 – 11.16 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 11 Bft (30 m/s)
-      Ourensas – 11 Bft, 11.15 08:00–11.16 13:00
-      Soria – 10 Bft, 11.15 08:00–11.16 13:00
-      Vigo – 10 Bft, 11.15 08:00–11.16 13:00
-      Ovjedas – 10 Bft, 11.15 09:00–20:00
-      Lugas – 9 Bft, 11.15 08:00–11.16 13:00
-      Valensija – 9 Bft, 11.15 08:00–11.16 03:00
-      +8 kitos vietos
-Italija:
-  • 11.15 09:00 – 11.16 13:00 (tęsiasi ir vėliau) — gūsiai iki 11 Bft (31 m/s)
-      Komas – 11 Bft, 11.16 04:00–13:00
-      Roma – 10 Bft, 11.16 01:00–12:00
-      Kunėjus – 10 Bft, 11.16 02:00–04:00
-      Perudža – 10 Bft, 11.16 02:00–13:00
-      Peskara – 9 Bft, 11.16 10:00–13:00
-      Neapolis – 8 Bft, 11.15 09:00–11.16 13:00
-      +9 kitos vietos
+  • 11.16 08:00 – 11.17 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 12 Bft (38 m/s)
+      Ourensas – 12 Bft, 11.16 08:00–11.17 13:00
+      Soria – 11 Bft, 11.16 08:00–11.17 13:00
+      Vigo – 11 Bft, 11.16 08:00–11.17 13:00
+      Ovjedas – 11 Bft, 11.16 14:00–11.17 13:00
+      Lugas – 10 Bft, 11.16 08:00–11.17 13:00
+      A Coruña – 10 Bft, 11.16 09:00–11.17 13:00
+      +19 kitos vietos
 Prancūzija:
-  • 11.15 09:00 — gūsiai iki 8 Bft (18 m/s)
-      Nantas – 8 Bft, 11.15 09:00
-  • 11.15 13:00 – 11.16 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (28 m/s)
-      Nantas – 10 Bft, 11.15 15:00–20:00
-      Ajačas (Korsika) – 10 Bft, 11.15 23:00–11.16 13:00
-      Strasbūras – 10 Bft, 11.16 03:00–13:00
-      La Rošelis – 9 Bft, 11.15 13:00–19:00
-      Lorjanas – 9 Bft, 11.15 14:00–18:00
-      Klermonas – 9 Bft, 11.15 16:00–11.16 04:00
-      +17 kitos vietos
-Velsas:
-  • 11.15 19:00 – 11.15 23:00 — gūsiai iki 9 Bft (21 m/s)
-      Aberystwyth – 9 Bft, 11.15 19:00–23:00
-      Holyhead – 8 Bft, 11.15 19:00–21:00
-Airija:
-  • 11.15 12:00 – 11.15 20:00 — gūsiai iki 8 Bft (18 m/s)
-      Tralee – 8 Bft, 11.15 12:00
-      Sligo – 8 Bft, 11.15 15:00–20:00
-  • 11.16 11:00 – 11.16 13:00 (tęsiasi ir vėliau) — gūsiai iki 9 Bft (23 m/s)
-      Tralee – 9 Bft, 11.16 11:00–13:00
-Vokietija:
-  • 11.15 08:00 – 11.16 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 9 Bft (23 m/s)
-      Erfurtas – 9 Bft, 11.15 08:00–11.16 13:00
-      Freiburgas – 9 Bft, 11.16 01:00–13:00
-      Drezdenas – 8 Bft, 11.15 08:00–11.16 07:00
-      Saarbriukenas – 8 Bft, 11.16 03:00–09:00
-      Manheimas – 8 Bft, 11.16 05:00–10:00
-      Augsburgas – 8 Bft, 11.16 12:00–13:00
-      +1 kitos vietos
-Austrija:
-  • 11.16 09:00 – 11.16 10:00 — gūsiai iki 9 Bft (21 m/s)
-      Leobenas – 9 Bft, 11.16 09:00–10:00
-Šveicarija:
-  • 11.15 17:00 – 11.16 12:00 — gūsiai iki 9 Bft (23 m/s)
-      Bernas – 9 Bft, 11.15 17:00–11.16 12:00
-      Sionas – 9 Bft, 11.16 03:00–11:00
-      Liucerna – 9 Bft, 11.16 06:00–10:00
-      Lozana – 8 Bft, 11.15 23:00–11.16 05:00
+  • 11.16 08:00 – 11.17 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 11 Bft (32 m/s)
+      Strasbūras – 11 Bft, 11.16 08:00–11.17 13:00
+      Ajačas (Korsika) – 10 Bft, 11.16 08:00–11.17 13:00
+      Klermonas – 10 Bft, 11.16 22:00–11.17 13:00
+      Bezansonas – 10 Bft, 11.17 04:00–13:00
+      Bulonė – 10 Bft, 11.17 09:00–13:00
+      Kalė – 10 Bft, 11.17 10:00–13:00
+      +30 kitos vietos
+Italija:
+  • 11.16 08:00 – 11.17 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 11 Bft (31 m/s)
+      Komas – 11 Bft, 11.16 08:00–11.17 02:00
+      Kunėjus – 11 Bft, 11.16 20:00–11.17 13:00
+      La Specija – 11 Bft, 11.17 04:00–13:00
+      Perudža – 10 Bft, 11.16 08:00–11.17 13:00
+      Roma – 10 Bft, 11.16 08:00–11.17 13:00
+      Fodža – 10 Bft, 11.16 11:00–11.17 13:00
+      +15 kitos vietos
+Škotija:
+  • 11.16 22:00 – 11.17 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (26 m/s)
+      Fort William – 10 Bft, 11.16 22:00–11.17 13:00
+      A9 Drumochter – 10 Bft, 11.17 00:00–13:00
+      Ayr – 9 Bft, 11.16 22:00–11.17 13:00
+      Cairnryan – 9 Bft, 11.17 01:00–13:00
+      Oban – 9 Bft, 11.17 04:00–13:00
+      Ullapool – 9 Bft, 11.17 05:00–13:00
+      +8 kitos vietos
 Anglija:
-  • 11.16 02:00 — gūsiai iki 8 Bft (17 m/s)
-      M6 Shap – 8 Bft, 11.16 02:00
+  • 11.16 19:00 – 11.17 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (25 m/s)
+      Mančesteris – 10 Bft, 11.17 05:00–09:00
+      Gloucesteris – 9 Bft, 11.17 00:00–03:00
+      M6 Shap – 9 Bft, 11.17 04:00–09:00
+      Kornvalis – 8 Bft, 11.16 19:00–11.17 09:00
+      Bristolis – 8 Bft, 11.16 23:00–11.17 00:00
+      Londonas – 8 Bft, 11.17 04:00–05:00
+      +4 kitos vietos
+Velsas:
+  • 11.16 20:00 – 11.17 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (26 m/s)
+      Newtown – 10 Bft, 11.16 20:00–11.17 12:00
+      Pembroke – 9 Bft, 11.16 21:00–11.17 11:00
+      Aberystwyth – 9 Bft, 11.16 22:00–11.17 02:00
+      Fishguard – 9 Bft, 11.16 23:00–11.17 01:00
+      Svonsis – 8 Bft, 11.17 00:00–13:00
+      A55 Deeside – 8 Bft, 11.17 02:00–08:00
+      +2 kitos vietos
+Airija:
+  • 11.16 11:00 – 11.17 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (28 m/s)
+      Tralee – 10 Bft, 11.16 11:00–11.17 10:00
+      Mayo (Castlebar) – 10 Bft, 11.16 15:00–11.17 02:00
+      Dublinas – 10 Bft, 11.16 18:00–11.17 13:00
+      Korkas – 9 Bft, 11.16 16:00–11.17 04:00
+      Donegolas – 9 Bft, 11.16 17:00–11.17 04:00
+      Limerikas – 9 Bft, 11.16 17:00–23:00
+      +10 kitos vietos
+Vokietija:
+  • 11.16 08:00 – 11.16 12:00 (prasideda anksčiau) — gūsiai iki 9 Bft (21 m/s)
+      Erfurtas – 9 Bft, 11.16 08:00–10:00
+      Fiusenas – 8 Bft, 11.16 08:00–12:00
+      Freiburgas – 8 Bft, 11.16 08:00–10:00
+      Kaselis – 8 Bft, 11.16 08:00
+      Kelnas – 8 Bft, 11.16 09:00
+  • 11.17 07:00 – 11.17 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (28 m/s)
+      Freiburgas – 10 Bft, 11.17 07:00–13:00
+      Miunchenas – 8 Bft, 11.17 09:00–13:00
+      Saarbriukenas – 8 Bft, 11.17 11:00–12:00
+      Štutgartas – 8 Bft, 11.17 11:00–13:00
+      Kelnas – 8 Bft, 11.17 12:00
+      Ulmas – 8 Bft, 11.17 12:00–13:00
+      +1 kitos vietos
+Šveicarija:
+  • 11.16 08:00 – 11.16 15:00 (prasideda anksčiau) — gūsiai iki 9 Bft (22 m/s)
+      Bernas – 9 Bft, 11.16 08:00–14:00
+      Sionas – 8 Bft, 11.16 08:00–15:00
+      Liucerna – 8 Bft, 11.16 10:00
+  • 11.16 21:00 – 11.17 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (28 m/s)
+      Bernas – 10 Bft, 11.16 21:00–11.17 13:00
+      Sionas – 9 Bft, 11.16 21:00–11.17 13:00
+      Kuras – 9 Bft, 11.17 01:00–13:00
+      Lozana – 9 Bft, 11.17 05:00–13:00
+      Oltenas – 9 Bft, 11.17 11:00–13:00
+Austrija:
+  • 11.16 09:00 – 11.16 10:00 — gūsiai iki 8 Bft (19 m/s)
+      Leobenas – 8 Bft, 11.16 09:00–10:00
+  • 11.16 19:00 – 11.16 20:00 — gūsiai iki 8 Bft (19 m/s)
+      Leobenas – 8 Bft, 11.16 19:00–20:00
+  • 11.17 10:00 – 11.17 13:00 (tęsiasi ir vėliau) — gūsiai iki 9 Bft (23 m/s)
+      Insbrukas – 9 Bft, 11.17 10:00–13:00
+      Lincas–Amstetenas – 8 Bft, 11.17 12:00
 Nyderlandai:
-  • 11.16 07:00 – 11.16 10:00 — gūsiai iki 8 Bft (18 m/s)
-      Vlisingenas – 8 Bft, 11.16 07:00–08:00
-      Hagos – 8 Bft, 11.16 09:00
-      Groningenas – 8 Bft, 11.16 10:00
+  • 11.16 08:00 (prasideda anksčiau) — gūsiai iki 8 Bft (17 m/s)
+      Afsluitdijk – 8 Bft, 11.16 08:00
+      Vlisingenas – 8 Bft, 11.16 08:00
+  • 11.17 10:00 – 11.17 13:00 (tęsiasi ir vėliau) — gūsiai iki 8 Bft (20 m/s)
+      Afsluitdijk – 8 Bft, 11.17 10:00–13:00
+      Den Helderis – 8 Bft, 11.17 11:00–13:00
+      Vlisingenas – 8 Bft, 11.17 12:00–13:00
 Belgija:
-  • 11.16 04:00 – 11.16 09:00 — gūsiai iki 8 Bft (19 m/s)
-      Bastonė – 8 Bft, 11.16 04:00–09:00
-      Arlonas – 8 Bft, 11.16 05:00–07:00
-      Ostendė – 8 Bft, 11.16 07:00
-      Zeebrugge – 8 Bft, 11.16 07:00–08:00
+  • 11.17 10:00 – 11.17 13:00 (tęsiasi ir vėliau) — gūsiai iki 8 Bft (20 m/s)
+      Briuselis – 8 Bft, 11.17 10:00
+      Zeebrugge – 8 Bft, 11.17 11:00–13:00
+      Ostendė – 8 Bft, 11.17 12:00–13:00
+      Bastonė – 8 Bft, 11.17 13:00
+      Šarlerua – 8 Bft, 11.17 13:00
 Liuksemburgas:
-  • 11.16 02:00 – 11.16 11:00 — gūsiai iki 8 Bft (20 m/s)
-      Eš prie Alzeto – 8 Bft, 11.16 02:00–11:00
-      Etelbriukas – 8 Bft, 11.16 03:00–05:00
-
-Be įspėjimų: Škotija
+  • 11.17 11:00 – 11.17 13:00 (tęsiasi ir vėliau) — gūsiai iki 8 Bft (19 m/s)
+      Eš prie Alzeto – 8 Bft, 11.17 11:00–13:00
