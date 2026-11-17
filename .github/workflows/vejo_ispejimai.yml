@@ -3,23 +3,26 @@ name: Vėjo gūsių įspėjimai
 on:
   schedule:
     # Laikas UTC. Vilniaus laikas = UTC+2 žiemą, UTC+3 vasarą.
-    # Ne pilną valandą, nes tada GitHub labiausiai apkrautas ir paleidimai vėluoja ar dingsta.
-    # Du paleidimai atsargai: jei pirmas nepasileis, antras vis tiek spės iki 06:50.
     - cron: "23 2 * * 1-5"     # 04:23 žiemą / 05:23 vasarą, pirmadienis–penktadienis
     - cron: "41 3 * * 1-5"     # 05:41 žiemą / 06:41 vasarą (atsarginis)
-  workflow_dispatch:        # leidžia paleisti ranka: Actions → Run workflow
+  
+  workflow_dispatch:         # Leidžia paleisti ranka: Actions → Run workflow
 
 permissions:
-  contents: write           # reikia, kad galėtų įrašyti rezultatus į repozitoriją
+  contents: write            # Būtina, kad galėtų įrašyti rezultatus į repozitoriją
 
 jobs:
   run:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
@@ -35,9 +38,14 @@ jobs:
 
       - name: Įrašyti rezultatus į repozitoriją
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add output/
           [ -f ne_50m_admin_0_map_units.geojson ] && git add ne_50m_admin_0_map_units.geojson
-          git commit -m "Vėjo įspėjimai $(TZ=Europe/Vilnius date +%F)" || echo "Nėra pakeitimų"
+          
+          # Patikriname, ar yra pokyčių, kuriuos reikia commit'inti
+          git diff --staged --quiet || git commit -m "Vėjo įspėjimai $(TZ=Europe/Vilnius date +%F)"
+          
+          # Nusiunčiame tik tada, jei yra pokyčių (arba tiesiog push'iname, jei viskas tvarkoje)
           git push
