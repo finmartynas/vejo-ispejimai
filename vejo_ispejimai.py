@@ -56,7 +56,7 @@ from matplotlib.patches import Polygon, Patch, Rectangle  # noqa: E402
 # NUSTATYMAI — keiskite čia
 # =====================================================================
 WIND_TYPE = "gusts"         # "wind" = vidutinis vėjo greitis, "gusts" = vėjo gūsiai
-MIN_BFT = 8                 # įspėjimas, kai vėjas >= šio balo (8 Bft = nuo 17,2 m/s)
+MIN_BFT = 9                 # įspėjimas, kai vėjas >= šio balo (8 Bft = nuo 17,2 m/s)
 WINDOW_START_HOUR = 8       # ataskaitos pradžia: šiandien 08:00
 WINDOW_END_HOUR = 13        # ataskaitos pabaiga: rytoj 13:00
 FRIDAY_UNTIL_MONDAY = True  # penktadienį: nuo penktadienio 08:00 iki pirmadienio 13:00
