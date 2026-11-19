@@ -1,120 +1,104 @@
-Vėjo gūsių įspėjimai ≥9 Bft
-Laikotarpis: 11.18 08:00 – 11.19 13:00 (LT laiku)
+Vėjo gūsių įspėjimai ≥8 Bft
+Laikotarpis: 11.19 08:00 – 11.20 13:00 (LT laiku)
 
 Ispanija:
-  • 11.18 08:00 – 11.19 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 12 Bft (38 m/s)
+  • 11.19 08:00 – 11.20 13:00 (prasideda anksčiau) — gūsiai iki 12 Bft (38 m/s)
       Ispanija – didžioji dalis
-        Barselona – 12 Bft, 11.18 08:00–11.19 11:00
-        Burgosas – 12 Bft, 11.18 08:00–11.19 13:00
-        Ourensas – 12 Bft, 11.18 08:00–11.19 13:00
-        Soria – 12 Bft, 11.18 08:00–11.19 13:00
-        Uesca – 12 Bft, 11.18 10:00–11.19 09:00
-        Kuenka – 11 Bft, 11.18 08:00–11.19 06:00
-      +26 kitos vietos
+        Barselona – 12 Bft, 11.19 08:00–19:00
+        Almerija – 11 Bft, 11.19 08:00–17:00
+        Mursija – 11 Bft, 11.19 08:00–11.20 04:00
+        Ourensas – 11 Bft, 11.19 08:00–11.20 08:00
+        Soria – 11 Bft, 11.19 08:00–11.20 10:00
+        Alikantė – 10 Bft, 11.19 08:00–19:00
+      +21 kitos vietos
 Prancūzija:
-  • 11.18 08:00 – 11.19 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 12 Bft (37 m/s)
-      Pietryčių Prancūzija
-        Ajačas (Korsika) – 12 Bft, 11.18 08:00–11.19 13:00
-        Bastija (Korsika) – 12 Bft, 11.18 08:00–11.19 13:00
-        Nica – 12 Bft, 11.18 08:00–11.19 13:00
-      Šiaurės rytų Prancūzija
-        Bezansonas – 11 Bft, 11.18 08:00–11.19 13:00
-        Strasbūras – 11 Bft, 11.18 08:00–11.19 13:00
-      Pietų Prancūzija
-        Monpeljė – 11 Bft, 11.18 08:00–11.19 13:00
-      +16 kitos vietos
+  • 11.19 08:00 – 11.20 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 12 Bft (38 m/s)
+      Prancūzija – didžioji dalis
+        Ajačas (Korsika) – 12 Bft, 11.19 08:00–11.20 13:00
+        Nica – 12 Bft, 11.19 08:00–11.20 13:00
+        Bastija (Korsika) – 12 Bft, 11.19 10:00–11.20 13:00
+        Klermonas – 11 Bft, 11.19 08:00–11.20 13:00
+        Monpeljė – 11 Bft, 11.19 08:00–11.20 13:00
+        Bezansonas – 10 Bft, 11.19 08:00–11.20 13:00
+      +38 kitos vietos
 Austrija:
-  • 11.18 09:00 – 11.19 03:00 — gūsiai iki 12 Bft (39 m/s)
+  • 11.19 09:00 – 11.20 13:00 (tęsiasi ir vėliau) — gūsiai iki 12 Bft (39 m/s)
       Austrija – didžioji dalis
-        Viener Noištatas – 12 Bft, 11.18 09:00–11.19 03:00
-        Welsas – 10 Bft, 11.18 09:00–11.19 00:00
-        Viena – 10 Bft, 11.18 10:00–15:00
-        Bregencas – 9 Bft, 11.18 10:00
-        Insbrukas – 9 Bft, 11.18 14:00
-        Sankt Pöltenas – 9 Bft, 11.18 14:00–16:00
-      +1 kitos vietos
-Italija:
-  • 11.18 08:00 – 11.19 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 12 Bft (40 m/s)
-      Italija – didžioji dalis
-        Fodža – 12 Bft, 11.18 08:00–11.19 13:00
-        Olbija – 12 Bft, 11.18 08:00–11.19 13:00
-        Perudža – 12 Bft, 11.18 08:00–11.19 13:00
-        Roma – 12 Bft, 11.18 08:00–11.19 13:00
-        Peskara – 12 Bft, 11.18 12:00–11.19 13:00
-        Salernas – 11 Bft, 11.18 11:00–11.19 13:00
-      +13 kitos vietos
+        Viener Noištatas – 12 Bft, 11.19 11:00–11.20 13:00
+        Welsas – 10 Bft, 11.19 16:00–11.20 13:00
+        Filachas – 9 Bft, 11.19 10:00–22:00
+        Lincas–Amstetenas – 9 Bft, 11.19 17:00–21:00
+        Viena – 9 Bft, 11.20 04:00–13:00
+        Insbrukas – 8 Bft, 11.19 09:00–18:00
+      +5 kitos vietos
 Šveicarija:
-  • 11.18 08:00 – 11.19 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 11 Bft (33 m/s)
+  • 11.19 08:00 – 11.20 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 12 Bft (33 m/s)
       Šveicarija – didžioji dalis
-        Bernas – 11 Bft, 11.18 08:00–11.19 13:00
-        Sankt Galenas – 11 Bft, 11.18 08:00–11.19 13:00
-        Oltenas – 9 Bft, 11.18 12:00–15:00
-        Liucerna – 9 Bft, 11.18 13:00–11.19 13:00
-        Lozana – 9 Bft, 11.19 10:00–12:00
-        Ciurichas – 9 Bft, 11.19 13:00
-      +1 kitos vietos
-Airija:
-  • 11.18 08:00 – 11.18 19:00 (prasideda anksčiau) — gūsiai iki 10 Bft (26 m/s)
-      Pietvakarių Airija
-        Tralee – 10 Bft, 11.18 08:00–19:00
-Vokietija:
-  • 11.18 08:00 – 11.18 23:00 (prasideda anksčiau) — gūsiai iki 10 Bft (25 m/s)
-      Vokietija – didžioji dalis
-        Freiburgas – 10 Bft, 11.18 08:00–19:00
-        Kukshafenas – 10 Bft, 11.18 12:00–16:00
-        Miunchenas – 9 Bft, 11.18 08:00–23:00
-        Emdenas – 9 Bft, 11.18 11:00–15:00
-        Erfurtas – 9 Bft, 11.18 11:00–17:00
-        Fiusenas – 9 Bft, 11.18 11:00–16:00
-      +13 kitos vietos
-  • 11.19 10:00 – 11.19 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (27 m/s)
-      Pietvakarių Vokietija
-        Freiburgas – 10 Bft, 11.19 10:00–13:00
-        Štutgartas – 9 Bft, 11.19 13:00
-Lenkija:
-  • 11.18 08:00 – 11.18 10:00 (prasideda anksčiau) — gūsiai iki 10 Bft (26 m/s)
-      Pietvakarių Lenkija
-        Legnica – 10 Bft, 11.18 08:00–10:00
-        Opolė – 10 Bft, 11.18 08:00–10:00
-      Pietryčių Lenkija
-        Žešuvas – 9 Bft, 11.18 09:00–10:00
-  • 11.18 14:00 – 11.19 07:00 — gūsiai iki 10 Bft (26 m/s)
-      Pietvakarių Lenkija
-        Legnica – 10 Bft, 11.18 14:00–11.19 07:00
-        Opolė – 9 Bft, 11.18 18:00–21:00
-      Pietryčių Lenkija
-        Žešuvas – 9 Bft, 11.18 15:00
-Lamanšas:
-  • 11.18 08:00 – 11.18 21:00 (prasideda anksčiau) — gūsiai iki 10 Bft (25 m/s)
-      Vakarinis Lamanšas
-        Le Havras–Portsmutas – 10 Bft, 11.18 08:00–18:00
-        Laimo įlanka – 9 Bft, 11.18 08:00–15:00
-        Normandijos salos – 9 Bft, 11.18 08:00–20:00
-        Roskofas–Plimutas – 9 Bft, 11.18 08:00–21:00
-        Ušantas – 9 Bft, 11.18 08:00–12:00
-      Rytinis Lamanšas
-        Djepas–Nyhavenas – 9 Bft, 11.18 08:00–17:00
+        Sankt Galenas – 12 Bft, 11.19 12:00–11.20 13:00
+        Bernas – 10 Bft, 11.19 08:00–11.20 13:00
+        Oltenas – 9 Bft, 11.19 08:00–11.20 13:00
+        Liucerna – 9 Bft, 11.19 13:00–11.20 13:00
+        Lozana – 8 Bft, 11.19 10:00–11.20 13:00
+        Ciurichas – 8 Bft, 11.19 15:00
       +2 kitos vietos
-  • 11.19 12:00 — gūsiai iki 9 Bft (21 m/s)
+Italija:
+  • 11.19 08:00 – 11.20 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 12 Bft (42 m/s)
+      Rytų Italija
+        Fodža – 12 Bft, 11.19 08:00–11.20 13:00
+      Centrinė Italija
+        Perudža – 12 Bft, 11.19 08:00–11.20 13:00
+        Roma – 12 Bft, 11.19 09:00–11.20 13:00
+        Peskara – 12 Bft, 11.19 10:00–23:00
+        Neapolis – 12 Bft, 11.19 12:00–23:00
+      Šiaurės vakarų Italija
+        Genuja – 11 Bft, 11.19 08:00–13:00
+      +21 kitos vietos
+Vokietija:
+  • 11.19 10:00 – 11.20 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (26 m/s)
+      Vokietija – didžioji dalis
+        Freiburgas – 10 Bft, 11.19 10:00–11.20 13:00
+        Kelnas – 9 Bft, 11.19 12:00–15:00
+        Miunchenas – 9 Bft, 11.19 14:00–11.20 13:00
+        Manheimas – 8 Bft, 11.19 10:00–11.20 05:00
+        Erfurtas – 8 Bft, 11.19 15:00–17:00
+        Fiusenas – 8 Bft, 11.19 15:00–11.20 13:00
+      +6 kitos vietos
+Lenkija:
+  • 11.19 08:00 – 11.20 11:00 (prasideda anksčiau) — gūsiai iki 10 Bft (28 m/s)
+      Pietvakarių Lenkija
+        Legnica – 10 Bft, 11.19 08:00–11.20 11:00
+        Opolė – 9 Bft, 11.19 08:00–11.20 11:00
+      Pietryčių Lenkija
+        Žešuvas – 9 Bft, 11.19 11:00–20:00
+Lamanšas:
+  • 11.19 08:00 – 11.20 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 10 Bft (26 m/s)
       Vakarinis Lamanšas
-        Normandijos salos – 9 Bft, 11.19 12:00
+        Normandijos salos – 10 Bft, 11.19 08:00–11.20 13:00
+        Roskofas–Plimutas – 10 Bft, 11.19 08:00–11.20 13:00
+        Ušantas – 10 Bft, 11.19 08:00–11.20 13:00
+        Le Havras–Portsmutas – 9 Bft, 11.19 08:00–11.20 13:00
+        Šerbūras–Pulas – 8 Bft, 11.19 08:00–11.20 08:00
+      Rytinis Lamanšas
+        Djepas–Nyhavenas – 9 Bft, 11.19 08:00–11.20 01:00
+      +1 kitos vietos
 Anglija:
-  • 11.18 13:00 — gūsiai iki 9 Bft (21 m/s)
+  • 11.19 11:00 – 11.19 16:00 — gūsiai iki 8 Bft (19 m/s)
       Pietvakarių Anglija
-        Plymutas – 9 Bft, 11.18 13:00
+        Kornvalis – 8 Bft, 11.19 11:00–16:00
+  • 11.20 06:00 – 11.20 10:00 — gūsiai iki 8 Bft (20 m/s)
+      Pietvakarių Anglija
+        Kornvalis – 8 Bft, 11.20 06:00–10:00
 Nyderlandai:
-  • 11.18 13:00 — gūsiai iki 9 Bft (21 m/s)
-      Šiaurės rytų Nyderlandai
-        Groningenas – 9 Bft, 11.18 13:00
+  • 11.19 12:00 — gūsiai iki 8 Bft (18 m/s)
+      Pietų Nyderlandai
+        Mastrichtas – 8 Bft, 11.19 12:00
 Belgija:
-  • 11.18 13:00 – 11.18 14:00 — gūsiai iki 9 Bft (21 m/s)
+  • 11.19 12:00 – 11.19 14:00 — gūsiai iki 8 Bft (19 m/s)
+      Šiaurės Belgija
+        Briuselis – 8 Bft, 11.19 12:00–13:00
+      Šiaurės rytų Belgija
+        Hasseltas – 8 Bft, 11.19 12:00
       Rytų Belgija
-        Lježas – 9 Bft, 11.18 13:00
-      Centrinė Belgija
-        Namiūras – 9 Bft, 11.18 14:00
-Liuksemburgas:
-  • 11.18 14:00 — gūsiai iki 9 Bft (21 m/s)
-      Liuksemburgas
-        Eš prie Alzeto – 9 Bft, 11.18 14:00
+        Lježas – 8 Bft, 11.19 12:00–14:00
 
-Be įspėjimų: Škotija, Velsas, Danija, Lietuva
+Be įspėjimų: Škotija, Velsas, Airija, Liuksemburgas, Danija, Lietuva
