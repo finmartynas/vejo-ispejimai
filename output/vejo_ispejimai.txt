@@ -1,84 +1,75 @@
 Vėjo gūsių įspėjimai ≥8 Bft
-Laikotarpis: 11.24 08:00 – 11.25 13:00 (LT laiku)
+Laikotarpis: 11.25 08:00 – 11.26 13:00 (LT laiku)
 
 Ispanija:
-  • 11.24 08:00 – 11.25 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 11 Bft (32 m/s)
+  • 11.25 08:00 – 11.26 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 12 Bft (37 m/s)
       Ispanija – didžioji dalis
-        Santanderis – 11 Bft, 11.24 08:00–11.25 13:00
-        Uesca – 11 Bft, 11.24 13:00–21:00
-        Soria – 11 Bft, 11.24 17:00–11.25 13:00
-        Ourensas – 10 Bft, 11.24 08:00–11.25 13:00
-        Burgosas – 10 Bft, 11.24 13:00–11.25 13:00
-        Mursija – 10 Bft, 11.24 22:00–11.25 13:00
-      +24 kitos vietos
-Škotija:
-  • 11.24 08:00 – 11.25 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 10 Bft (28 m/s)
-      Škotija – didžioji dalis
-        Invernesas – 10 Bft, 11.24 08:00–11.25 13:00
-        Cairnryan – 9 Bft, 11.24 08:00–23:00
-        Peterhead – 9 Bft, 11.24 08:00–11.25 07:00
-        Thurso – 9 Bft, 11.24 08:00–11.25 08:00
-        A9 Drumochter – 9 Bft, 11.24 15:00–23:00
-        Ullapool – 9 Bft, 11.24 15:00–11.25 03:00
-      +5 kitos vietos
-Prancūzija:
-  • 11.24 13:00 – 11.25 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (27 m/s)
-      Prancūzija – didžioji dalis
-        Po – 10 Bft, 11.24 13:00–22:00
-        Monpeljė – 9 Bft, 11.24 19:00–11.25 12:00
-        Tulonas – 9 Bft, 11.24 23:00–11.25 11:00
-        Grenoblis – 9 Bft, 11.25 06:00–10:00
-        Tulūza – 8 Bft, 11.24 15:00–22:00
-        Miulūzas – 8 Bft, 11.24 17:00
-      +3 kitos vietos
-Austrija:
-  • 11.24 08:00 – 11.24 15:00 (prasideda anksčiau) — gūsiai iki 10 Bft (25 m/s)
-      Rytų Austrija
-        Viener Noištatas – 10 Bft, 11.24 08:00–15:00
+        Chichonas – 12 Bft, 11.25 08:00–11.26 04:00
+        Barselona – 12 Bft, 11.25 10:00–11.26 11:00
+        Kasteljonas – 12 Bft, 11.25 11:00–11.26 13:00
+        Santanderis – 12 Bft, 11.25 12:00–11.26 03:00
+        Soria – 11 Bft, 11.25 08:00–11.26 12:00
+        Valensija – 11 Bft, 11.25 11:00–11.26 06:00
+      +22 kitos vietos
 Italija:
-  • 11.25 06:00 – 11.25 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (25 m/s)
-      Centrinė Italija
-        Roma – 10 Bft, 11.25 06:00–13:00
-        Peskara – 8 Bft, 11.25 08:00–09:00
-      Pietryčių Italija
-        Mesina – 9 Bft, 11.25 10:00–13:00
-      Pietų Italija
-        Palermas – 9 Bft, 11.25 11:00–13:00
-Velsas:
-  • 11.24 08:00 – 11.24 18:00 (prasideda anksčiau) — gūsiai iki 9 Bft (21 m/s)
-      Šiaurės Velsas
-        Bangoras – 9 Bft, 11.24 08:00–17:00
-      Pietvakarių Velsas
-        Fishguard – 8 Bft, 11.24 08:00
-        Pembroke – 8 Bft, 11.24 13:00–14:00
-      Šiaurės rytų Velsas
-        A55 Deeside – 8 Bft, 11.24 09:00–18:00
+  • 11.25 08:00 – 11.26 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 12 Bft (35 m/s)
+      Italija – didžioji dalis
+        Peskara – 12 Bft, 11.25 08:00–11.26 13:00
+        Roma – 12 Bft, 11.25 08:00–11.26 13:00
+        Mesina – 11 Bft, 11.25 10:00–11.26 12:00
+        Olbija – 10 Bft, 11.25 15:00–11.26 13:00
+        Kaljaris – 10 Bft, 11.25 18:00–11.26 00:00
+        Neapolis – 10 Bft, 11.25 22:00–11.26 13:00
+      +12 kitos vietos
+Škotija:
+  • 11.25 08:00 – 11.25 16:00 (prasideda anksčiau) — gūsiai iki 8 Bft (19 m/s)
+      Rytų Škotija
+        Aberdynas – 8 Bft, 11.25 08:00
+      Šiaurės rytų Škotija
+        Peterhead – 8 Bft, 11.25 08:00–16:00
+  • 11.26 00:00 – 11.26 13:00 (tęsiasi ir vėliau) — gūsiai iki 11 Bft (31 m/s)
+      Škotija – didžioji dalis
+        Invernesas – 11 Bft, 11.26 00:00–13:00
+        Fort William – 11 Bft, 11.26 03:00–13:00
+        A9 Drumochter – 9 Bft, 11.26 09:00–13:00
+        Peterhead – 8 Bft, 11.26 01:00–13:00
+        Oban – 8 Bft, 11.26 10:00–13:00
+        Ullapool – 8 Bft, 11.26 11:00–13:00
+      +3 kitos vietos
 Airija:
-  • 11.24 08:00 – 11.24 16:00 (prasideda anksčiau) — gūsiai iki 9 Bft (21 m/s)
+  • 11.26 05:00 – 11.26 13:00 (tęsiasi ir vėliau) — gūsiai iki 11 Bft (32 m/s)
+      Pietvakarių Airija
+        Tralee – 11 Bft, 11.26 05:00–13:00
+        Limerikas – 8 Bft, 11.26 13:00
       Šiaurės Airija
-        Derry – 9 Bft, 11.24 08:00–13:00
-      Rytų Airija
-        Dublinas – 8 Bft, 11.24 08:00–10:00
-        Dundalkas – 8 Bft, 11.24 08:00–12:00
-      Šiaurės rytų Airija
-        Belfastas – 8 Bft, 11.24 11:00–16:00
-Lenkija:
-  • 11.24 08:00 – 11.24 12:00 (prasideda anksčiau) — gūsiai iki 9 Bft (24 m/s)
-      Pietvakarių Lenkija
-        Legnica – 9 Bft, 11.24 08:00–12:00
-Anglija:
-  • 11.24 13:00 – 11.24 14:00 — gūsiai iki 8 Bft (20 m/s)
-      Pietvakarių Anglija
-        Kornvalis – 8 Bft, 11.24 13:00–14:00
+        Donegolas – 9 Bft, 11.26 09:00–13:00
+        Derry – 8 Bft, 11.26 12:00–13:00
+      Šiaurės vakarų Airija
+        Sligo – 9 Bft, 11.26 11:00–13:00
+Prancūzija:
+  • 11.25 08:00 – 11.26 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 11 Bft (29 m/s)
+      Pietryčių Prancūzija
+        Ajačas (Korsika) – 11 Bft, 11.25 16:00–11.26 12:00
+        Tulonas – 9 Bft, 11.25 08:00–20:00
+        Bastija (Korsika) – 9 Bft, 11.26 06:00–13:00
+        Avinjonas – 9 Bft, 11.26 10:00–13:00
+      Pietų Prancūzija
+        Monpeljė – 9 Bft, 11.25 08:00–11.26 12:00
+      Pietvakarių Prancūzija
+        Bajona – 9 Bft, 11.25 18:00–21:00
+      +5 kitos vietos
+Nyderlandai:
+  • 11.25 16:00 – 11.25 21:00 — gūsiai iki 8 Bft (18 m/s)
+      Šiaurės vakarų Nyderlandai
+        Afsluitdijk – 8 Bft, 11.25 16:00–21:00
+Austrija:
+  • 11.26 10:00 – 11.26 11:00 — gūsiai iki 8 Bft (18 m/s)
+      Rytų Austrija
+        Viener Noištatas – 8 Bft, 11.26 10:00–11:00
 Lamanšas:
-  • 11.24 08:00 – 11.24 17:00 (prasideda anksčiau) — gūsiai iki 8 Bft (20 m/s)
+  • 11.25 08:00 – 11.25 10:00 — gūsiai iki 8 Bft (18 m/s)
       Vakarinis Lamanšas
-        Roskofas–Plimutas – 8 Bft, 11.24 08:00–15:00
-        Ušantas – 8 Bft, 11.24 08:00–17:00
-  • 11.25 07:00 – 11.25 13:00 (tęsiasi ir vėliau) — gūsiai iki 8 Bft (19 m/s)
-      Vakarinis Lamanšas
-        Laimo įlanka – 8 Bft, 11.25 07:00–11:00
-        Roskofas–Plimutas – 8 Bft, 11.25 08:00–13:00
-        Šerbūras–Pulas – 8 Bft, 11.25 08:00–09:00
+        Laimo įlanka – 8 Bft, 11.25 08:00–09:00
+        Roskofas–Plimutas – 8 Bft, 11.25 08:00–10:00
 
-Be įspėjimų: Nyderlandai, Belgija, Liuksemburgas, Vokietija, Šveicarija, Danija, Lietuva
+Be įspėjimų: Anglija, Velsas, Belgija, Liuksemburgas, Vokietija, Šveicarija, Danija, Lenkija, Lietuva
