@@ -1,71 +1,187 @@
 Vėjo gūsių įspėjimai ≥8 Bft
-Laikotarpis: 11.26 08:00 – 11.27 13:00 (LT laiku)
+Laikotarpis: 11.27 08:00 – 11.30 13:00 (LT laiku)
 
 Škotija:
-  • 11.26 08:00 – 11.27 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 12 Bft (34 m/s)
+  • 11.27 08:00 – 11.27 16:00 (prasideda anksčiau) — gūsiai iki 10 Bft (26 m/s)
       Škotija – didžioji dalis
-        Fort William – 12 Bft, 11.26 08:00–11.27 06:00
-        Invernesas – 12 Bft, 11.26 08:00–11.27 09:00
-        A9 Drumochter – 10 Bft, 11.26 08:00–11.27 04:00
-        Ullapool – 10 Bft, 11.26 11:00–11.27 03:00
-        Peterhead – 10 Bft, 11.26 12:00–11.27 13:00
-        Oban – 10 Bft, 11.26 13:00–11.27 03:00
-      +4 kitos vietos
+        Peterhead – 10 Bft, 11.27 08:00–16:00
+        Aberdynas – 9 Bft, 11.27 08:00–15:00
+        Invernesas – 9 Bft, 11.27 08:00–09:00
+        Ayr – 8 Bft, 11.27 08:00
+        Cairnryan – 8 Bft, 11.27 08:00
+  • 11.28 09:00 – 11.28 21:00 — gūsiai iki 10 Bft (25 m/s)
+      Škotija – didžioji dalis
+        Invernesas – 10 Bft, 11.28 11:00–16:00
+        Fort William – 10 Bft, 11.28 13:00–19:00
+        Cairnryan – 9 Bft, 11.28 09:00–16:00
+        Peterhead – 9 Bft, 11.28 10:00–21:00
+        Thurso – 9 Bft, 11.28 13:00–18:00
+        Aberdynas – 8 Bft, 11.28 11:00–20:00
+      +1 kitos vietos
+  • 11.29 01:00 – 11.30 13:00 (tęsiasi ir vėliau) — gūsiai iki 12 Bft (34 m/s)
+      Škotija – didžioji dalis
+        Fort William – 12 Bft, 11.29 01:00–11.30 13:00
+        Invernesas – 12 Bft, 11.29 08:00–11.30 13:00
+        Ullapool – 11 Bft, 11.29 19:00–11.30 13:00
+        Stirling – 11 Bft, 11.30 05:00–13:00
+        A9 Drumochter – 10 Bft, 11.29 10:00–11.30 13:00
+        Cairnryan – 10 Bft, 11.29 10:00–11.30 13:00
+      +11 kitos vietos
 Airija:
-  • 11.26 08:00 – 11.27 04:00 (prasideda anksčiau) — gūsiai iki 12 Bft (33 m/s)
+  • 11.28 05:00 – 11.28 15:00 — gūsiai iki 10 Bft (28 m/s)
       Airija – didžioji dalis
-        Tralee – 12 Bft, 11.26 08:00–21:00
-        Donegolas – 9 Bft, 11.26 09:00–22:00
-        Sligo – 9 Bft, 11.26 11:00–22:00
-        Derry – 9 Bft, 11.26 14:00–11.27 02:00
-        Dublinas – 9 Bft, 11.26 19:00–11.27 04:00
-        Limerikas – 8 Bft, 11.26 15:00–11.27 00:00
-      +4 kitos vietos
-Ispanija:
-  • 11.26 08:00 – 11.27 08:00 (prasideda anksčiau) — gūsiai iki 11 Bft (31 m/s)
-      Ispanija – didžioji dalis
-        Kasteljonas – 11 Bft, 11.26 08:00–11.27 03:00
-        Barselona – 10 Bft, 11.26 08:00–12:00
-        Logronjas – 10 Bft, 11.26 08:00–15:00
-        Mursija – 9 Bft, 11.26 08:00–11.27 08:00
-        Pamplona – 8 Bft, 11.26 08:00–12:00
-        Uesca – 8 Bft, 11.26 08:00–20:00
+        Tralee – 10 Bft, 11.28 05:00–12:00
+        Donegolas – 9 Bft, 11.28 08:00–14:00
+        Sligo – 9 Bft, 11.28 09:00–13:00
+        Dublinas – 9 Bft, 11.28 11:00–15:00
+        Korkas – 8 Bft, 11.28 08:00–11:00
+        Limerikas – 8 Bft, 11.28 08:00–12:00
       +2 kitos vietos
+  • 11.28 19:00 – 11.30 13:00 (tęsiasi ir vėliau) — gūsiai iki 12 Bft (33 m/s)
+      Airija – didžioji dalis
+        Tralee – 12 Bft, 11.28 19:00–11.30 13:00
+        Dublinas – 10 Bft, 11.28 19:00–11.30 13:00
+        Limerikas – 10 Bft, 11.29 05:00–11.30 13:00
+        Mayo (Castlebar) – 10 Bft, 11.29 05:00–11.30 13:00
+        Korkas – 10 Bft, 11.29 07:00–11.30 13:00
+        Donegolas – 10 Bft, 11.30 00:00–13:00
+      +10 kitos vietos
+Vokietija:
+  • 11.28 21:00 – 11.30 00:00 — gūsiai iki 12 Bft (33 m/s)
+      Rytų Vokietija
+        Drezdenas – 12 Bft, 11.28 21:00–11.30 00:00
 Prancūzija:
-  • 11.26 08:00 – 11.27 13:00 (prasideda anksčiau, tęsiasi ir vėliau) — gūsiai iki 10 Bft (27 m/s)
-      Pietryčių Prancūzija
-        Ajačas (Korsika) – 10 Bft, 11.26 08:00–22:00
-        Bastija (Korsika) – 10 Bft, 11.26 08:00–10:00
-        Avinjonas – 9 Bft, 11.26 12:00–11.27 13:00
-        Tulonas – 9 Bft, 11.26 13:00–17:00
-        Marselis – 8 Bft, 11.26 15:00–17:00
+  • 11.27 08:00 – 11.28 03:00 (prasideda anksčiau) — gūsiai iki 11 Bft (30 m/s)
       Pietų Prancūzija
-        Monpeljė – 10 Bft, 11.26 08:00–11.27 13:00
-Italija:
-  • 11.26 08:00 – 11.27 00:00 (prasideda anksčiau) — gūsiai iki 10 Bft (28 m/s)
-      Italija – didžioji dalis
-        Mesina – 10 Bft, 11.26 08:00–11:00
-        Roma – 10 Bft, 11.26 08:00–22:00
-        Fodža – 9 Bft, 11.26 08:00–11.27 00:00
-        Olbija – 9 Bft, 11.26 08:00–15:00
-        Perudža – 9 Bft, 11.26 08:00–17:00
-        Peskara – 9 Bft, 11.26 08:00–22:00
-      +6 kitos vietos
+        Monpeljė – 11 Bft, 11.27 08:00–11.28 00:00
+      Pietryčių Prancūzija
+        Avinjonas – 8 Bft, 11.27 08:00–11.28 03:00
+  • 11.28 15:00 — gūsiai iki 8 Bft (17 m/s)
+      Šiaurės vakarų Prancūzija
+        Brestas – 8 Bft, 11.28 15:00
+Anglija:
+  • 11.28 13:00 – 11.29 00:00 — gūsiai iki 9 Bft (21 m/s)
+      Pietvakarių Anglija
+        Plymutas – 9 Bft, 11.28 14:00–17:00
+        Exeter – 8 Bft, 11.28 13:00–18:00
+        Kornvalis – 8 Bft, 11.28 13:00–15:00
+      Centrinė Anglija
+        Mančesteris – 8 Bft, 11.28 15:00–19:00
+      Pietų Anglija
+        Bristolis – 8 Bft, 11.28 17:00–18:00
+        Sautamptonas – 8 Bft, 11.28 18:00–19:00
+      +1 kitos vietos
+  • 11.29 11:00 – 11.29 18:00 — gūsiai iki 8 Bft (19 m/s)
+      Šiaurės Anglija
+        M6 Shap – 8 Bft, 11.29 11:00–18:00
+        Karlailas – 8 Bft, 11.29 12:00–13:00
+  • 11.30 03:00 – 11.30 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (27 m/s)
+      Šiaurės Anglija
+        Karlailas – 10 Bft, 11.30 03:00–13:00
+        M6 Shap – 10 Bft, 11.30 05:00–13:00
+        Niukaslas – 8 Bft, 11.30 09:00–13:00
+        Lidsas – 8 Bft, 11.30 12:00–13:00
+      Pietvakarių Anglija
+        Kornvalis – 8 Bft, 11.30 12:00–13:00
+      Centrinė Anglija
+        Mančesteris – 8 Bft, 11.30 12:00–13:00
+      +2 kitos vietos
 Velsas:
-  • 11.27 00:00 – 11.27 09:00 — gūsiai iki 9 Bft (22 m/s)
+  • 11.27 08:00 – 11.27 10:00 (prasideda anksčiau) — gūsiai iki 9 Bft (23 m/s)
       Šiaurės Velsas
-        Bangoras – 9 Bft, 11.27 01:00–09:00
+        Bangoras – 9 Bft, 11.27 08:00–10:00
+      Vakarų Velsas
+        Aberystwyth – 8 Bft, 11.27 08:00
       Pietvakarių Velsas
-        Fishguard – 8 Bft, 11.27 00:00–09:00
-Austrija:
-  • 11.26 09:00 – 11.26 12:00 — gūsiai iki 8 Bft (18 m/s)
-      Rytų Austrija
-        Viener Noištatas – 8 Bft, 11.26 09:00–12:00
-      Pietų Austrija
-        Filachas – 8 Bft, 11.26 10:00
+        Fishguard – 8 Bft, 11.27 08:00
+  • 11.28 14:00 – 11.28 20:00 — gūsiai iki 9 Bft (21 m/s)
+      Velsas – didžioji dalis
+        Newtown – 9 Bft, 11.28 15:00–20:00
+        Brecon – 8 Bft, 11.28 14:00–17:00
+        Aberystwyth – 8 Bft, 11.28 15:00–17:00
+        Pembroke – 8 Bft, 11.28 15:00
+        Bangoras – 8 Bft, 11.28 19:00
+        Holyhead – 8 Bft, 11.28 19:00
+  • 11.29 12:00 – 11.29 19:00 — gūsiai iki 8 Bft (20 m/s)
+      Velsas – didžioji dalis
+        Holyhead – 8 Bft, 11.29 12:00
+        Newtown – 8 Bft, 11.29 12:00–19:00
+        Aberystwyth – 8 Bft, 11.29 13:00–15:00
+        Bangoras – 8 Bft, 11.29 13:00
+  • 11.30 02:00 – 11.30 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (26 m/s)
+      Velsas – didžioji dalis
+        Bangoras – 10 Bft, 11.30 03:00–13:00
+        Newtown – 9 Bft, 11.30 02:00–13:00
+        Holyhead – 9 Bft, 11.30 03:00–13:00
+        Aberystwyth – 8 Bft, 11.30 05:00–13:00
+        A55 Deeside – 8 Bft, 11.30 09:00–13:00
+        Fishguard – 8 Bft, 11.30 09:00–13:00
+      +2 kitos vietos
+Italija:
+  • 11.28 01:00 – 11.30 13:00 (tęsiasi ir vėliau) — gūsiai iki 10 Bft (28 m/s)
+      Italija – didžioji dalis
+        Genuja – 10 Bft, 11.28 01:00–11.30 13:00
+        Fodža – 10 Bft, 11.28 13:00–11.30 05:00
+        Katanija – 10 Bft, 11.28 20:00–11.29 18:00
+        Peskara – 9 Bft, 11.28 14:00–11.29 14:00
+        Salernas – 9 Bft, 11.28 14:00–11.29 16:00
+        Palermas – 9 Bft, 11.29 10:00–18:00
+      +7 kitos vietos
 Lenkija:
-  • 11.26 16:00 – 11.26 17:00 — gūsiai iki 8 Bft (19 m/s)
+  • 11.27 19:00 – 11.29 06:00 — gūsiai iki 10 Bft (27 m/s)
+      Pietryčių Lenkija
+        Žešuvas – 10 Bft, 11.27 19:00–11.29 06:00
+      Pietų Lenkija
+        Katovicai – 8 Bft, 11.28 18:00–19:00
+  • 11.29 10:00 – 11.30 05:00 — gūsiai iki 10 Bft (26 m/s)
       Pietvakarių Lenkija
-        Opolė – 8 Bft, 11.26 16:00–17:00
+        Legnica – 10 Bft, 11.29 10:00–11.30 05:00
+Ispanija:
+  • 11.27 08:00 – 11.27 12:00 (prasideda anksčiau) — gūsiai iki 8 Bft (19 m/s)
+      Rytų Ispanija
+        Kasteljonas – 8 Bft, 11.27 08:00–11:00
+      Pietryčių Ispanija
+        Mursija – 8 Bft, 11.27 08:00–12:00
+  • 11.28 03:00 – 11.28 15:00 — gūsiai iki 9 Bft (22 m/s)
+      Šiaurės vakarų Ispanija
+        Vigo – 9 Bft, 11.28 03:00–15:00
+  • 11.30 05:00 – 11.30 07:00 — gūsiai iki 8 Bft (18 m/s)
+      Šiaurės rytų Ispanija
+        La Jonquera – 8 Bft, 11.30 05:00–07:00
+Danija:
+  • 11.28 19:00 – 11.29 14:00 — gūsiai iki 9 Bft (21 m/s)
+      Šiaurės Danija
+        Frederikshavnas – 9 Bft, 11.28 21:00–11.29 11:00
+      Pietų Danija
+        Didžiojo Belto tiltas – 8 Bft, 11.28 19:00–11.29 13:00
+      Pietryčių Danija
+        Ronė (Bornholmas) – 8 Bft, 11.29 10:00–14:00
+Lamanšas:
+  • 11.28 08:00 – 11.29 02:00 — gūsiai iki 9 Bft (23 m/s)
+      Vakarinis Lamanšas
+        Šerbūras–Pulas – 9 Bft, 11.28 09:00–22:00
+        Laimo įlanka – 9 Bft, 11.28 11:00–18:00
+        Ušantas – 9 Bft, 11.28 11:00–16:00
+        Roskofas–Plimutas – 9 Bft, 11.28 12:00–18:00
+        Le Havras–Portsmutas – 8 Bft, 11.28 08:00–11.29 00:00
+      Rytinis Lamanšas
+        Bulonė–Folkstonas – 8 Bft, 11.28 09:00–11.29 01:00
+      +4 kitos vietos
+  • 11.30 09:00 – 11.30 13:00 (tęsiasi ir vėliau) — gūsiai iki 8 Bft (19 m/s)
+      Vakarinis Lamanšas
+        Roskofas–Plimutas – 8 Bft, 11.30 09:00–13:00
+        Ušantas – 8 Bft, 11.30 09:00–13:00
+        Laimo įlanka – 8 Bft, 11.30 12:00–13:00
+Nyderlandai:
+  • 11.28 19:00 – 11.29 03:00 — gūsiai iki 8 Bft (18 m/s)
+      Šiaurės vakarų Nyderlandai
+        Afsluitdijk – 8 Bft, 11.28 19:00–11.29 03:00
+Belgija:
+  • 11.28 15:00 – 11.28 17:00 — gūsiai iki 8 Bft (17 m/s)
+      Pietryčių Belgija
+        Bastonė – 8 Bft, 11.28 15:00–17:00
+  • 11.28 21:00 – 11.28 23:00 — gūsiai iki 8 Bft (19 m/s)
+      Pietryčių Belgija
+        Bastonė – 8 Bft, 11.28 21:00–23:00
 
-Be įspėjimų: Anglija, Nyderlandai, Belgija, Liuksemburgas, Vokietija, Šveicarija, Danija, Lietuva, Lamanšas
+Be įspėjimų: Liuksemburgas, Austrija, Šveicarija, Lietuva
